@@ -38,7 +38,7 @@ file by that name as a no-op.
 
 If you have those things taken care of you can use starton as follows:
 
-*Starting a brand new project*
+### Starting a brand new project
 
 Command: _start_
 
@@ -53,7 +53,7 @@ Example:
 starton start niftyn8/starton
 ```
 
-*Configure a project*
+### Configure a project
 
 Command: _configure_
 
@@ -65,7 +65,7 @@ Example:
 starton configure
 ```
 
-*Build a project*
+### Build a project
 
 Command: _build_
 
@@ -77,7 +77,7 @@ Example:
 starton build
 ```
 
-*Run a project*
+### Run a project
 
 Command: _run_
 
@@ -89,7 +89,7 @@ Example:
 starton run
 ```
 
-*Test a project*
+### Test a project
 
 Command _test_
 
@@ -99,7 +99,7 @@ This should get run in the root directory of your project.
 starton test
 ```
 
-*Get help*
+### Get help
 
 You can always run `starton --help` to get some helpful output.
 
