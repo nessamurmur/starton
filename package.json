@@ -1,6 +1,6 @@
 {
   "name": "starton",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A light wrapper to get started on new projects",
   "main": "src/index.js",
   "scripts": {
